@@ -1,0 +1,23 @@
+{
+  "name": "wilddog-location-weapp",
+  "version": "0.2.2",
+  "description": "wilddog location",
+  "main": "wilddog-location.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WildDogTeam/wilddog-location-weapp.git"
+  },
+  "keywords": [
+    "location",
+    "wilddog"
+  ],
+  "author": "wilddog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WildDogTeam/wilddog-location-weapp/issues"
+  },
+  "homepage": "https://github.com/WildDogTeam/wilddog-location-weapp#readme"
+}
